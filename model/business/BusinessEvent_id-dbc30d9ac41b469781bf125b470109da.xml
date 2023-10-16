@@ -1,5 +1,0 @@
-<archimate:BusinessEvent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Insurance Periodic Expiration"
-    id="id-dbc30d9ac41b469781bf125b470109da"
-    documentation="Assiteca, UTIS and Assoservice have monthly expirations&#xD;&#xA;Ecomap sendes requests from retailers to IGT on a weekly basis.&#xD;&#xA;"/>

@@ -1,5 +1,0 @@
-<archimate:BusinessEvent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lotto Contract Re-Activation Condition"
-    id="id-74518e0d861042618f493bff011a224d"
-    documentation="The PoS must be present in SAP: the PoS creation process has already taken place."/>
