@@ -1,0 +1,5 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lotto - Retailer Block for Plafond Exhaustion"
+    id="id-4a6f86fcb78e44939e1135d1c9194352"
+    documentation="Le ricevitorie si bloccano automaticamente al superamento di 5 volte l'importo della fideiussione (p.e. fide 1000, a 5000. Alert al 98% (richiesta configurazione a Martellacci)​&#xD;&#xA;&#xD;&#xA;Il blocco automatico è settimanale. Il blocco viene tolto alla fine della settimana contabile. Il blocco produce informativa email al sales regionale​&#xD;&#xA;&#xD;&#xA;Se il blocco si ripete e il ricevitore lo ritiene puo' chiedere adeguamento fideiussione."/>

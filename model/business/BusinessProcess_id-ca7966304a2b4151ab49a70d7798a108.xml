@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plafond Monitoring"
+    id="id-ca7966304a2b4151ab49a70d7798a108"
+    documentation="Trend Monitoring (weekly ?)&#xD;&#xA;&#xD;&#xA;Peak Analysis​&#xD;&#xA;&#xD;&#xA;&#x9;1. Credit analyzes the peaks of plafond usages (usually on Tuesdays)​&#xD;&#xA;&#x9;2. For those retailers who are close to exhaustion, Credit proposes to CPDM and adjustment​&#xD;&#xA;&#x9;2. CPDM uses Trade to inform the retailes and at the same time sends IGT's proposal to the broker"/>

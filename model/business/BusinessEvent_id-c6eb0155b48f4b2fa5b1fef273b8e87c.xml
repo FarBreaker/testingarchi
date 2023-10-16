@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Lotto Contract Condition"
+    id="id-c6eb0155b48f4b2fa5b1fef273b8e87c"
+    documentation="The PoS must be present in SAP: the PoS creation process has already taken place."/>

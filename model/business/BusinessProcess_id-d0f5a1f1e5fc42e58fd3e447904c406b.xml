@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plafond Adjustment Review"
+    id="id-d0f5a1f1e5fc42e58fd3e447904c406b"
+    documentation="Credit management can make plafond adjustment recommendations (e.g. increase or decrease on the basis of historical data) to help the retail not to get blocked for fund unavailability.&#xD;&#xA;This step is not performed for adjustments recommended by monitoring..."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lotto Re-activation with different owner"
+    id="id-0c4456247ad64c99a8515bd16162b844"
+    documentation="The PoS must be present in SAP: the PoS creation process has already taken place."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporting &amp; Plafond Monitoring"
+    id="id-04d1f29f3f394e98b5449c5342463ff1"
+    documentation="&#xD;&#xA;For Ecomap (tobacco federation) retailes IGT Credit performs a peak usage monitoring which might trigger plafond adjustemet requests."/>

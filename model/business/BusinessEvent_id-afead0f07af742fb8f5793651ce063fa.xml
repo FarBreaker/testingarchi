@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G&amp;V Blocking Condition"
+    id="id-afead0f07af742fb8f5793651ce063fa"
+    documentation="Blocking Conditions for G&amp;V&#xD;&#xA;&#x9;1. Contract termination: email communication from Sales. In this case the request is to Block the Retailer&#xD;&#xA;&#x9;2. Change of Owner&#xD;&#xA;&#x9;3. Negative rating: Credit sets the suspension due to bad six-month rating."/>

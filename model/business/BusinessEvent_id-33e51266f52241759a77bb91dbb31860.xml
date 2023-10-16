@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G&amp;V Suspension Condition"
+    id="id-33e51266f52241759a77bb91dbb31860"
+    documentation="Temporary Suspension Conditions​&#xD;&#xA;&#x9;4. Banking systems (e.g. due to revoked SDD, insolvency,...)​&#xD;&#xA;&#x9;5. Warrant expiration, either communicated by the broker via email or automatically detected by SAP​&#xD;&#xA;&#x9;6. Retailer request via certified email (PEC)​&#xD;&#xA;&#x9;7. IGT Internal Requests (e.g. for checks,...), communicated via email"/>
